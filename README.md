@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/Vnay12/Leetcode-Problems/tree/master/1044-find-common-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/Vnay12/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1848-sum-of-unique-elements](https://github.com/Vnay12/Leetcode-Problems/tree/master/1848-sum-of-unique-elements) |
+| [2388-replace-elements-in-an-array](https://github.com/Vnay12/Leetcode-Problems/tree/master/2388-replace-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Vnay12/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1848-sum-of-unique-elements](https://github.com/Vnay12/Leetcode-Problems/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vnay12/Leetcode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2388-replace-elements-in-an-array](https://github.com/Vnay12/Leetcode-Problems/tree/master/2388-replace-elements-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1044-find-common-characters](https://github.com/Vnay12/Leetcode-Problems/tree/master/1044-find-common-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vnay12/Leetcode-Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+## Simulation
+|  |
+| ------- |
+| [2388-replace-elements-in-an-array](https://github.com/Vnay12/Leetcode-Problems/tree/master/2388-replace-elements-in-an-array) |
 <!---LeetCode Topics End-->
